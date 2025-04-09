@@ -1,4 +1,4 @@
-# Thực Tập Tốt Nghiệp - Game Nhóm 12: Farm Chill
+# Thực Tập Tốt Nghiệp - Game Nhóm 20: Farm Chill
 
 ## Thành viên
 - **Dương Quốc Anh**  
